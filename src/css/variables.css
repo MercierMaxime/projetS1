@@ -1,0 +1,31 @@
+:root {
+--font-display-meduim: "DisplayMedium";
+--font-display-semibold: "DisplaySemiBold";
+--font-display-thin: "DisplayThin";
+--font-display-ultrathin: "DisplayUltraThin";
+--font-display-black: "DisplayBlack";
+--font-display-bold: "DisplayBold";
+--font-display-heavy: "DisplayHeavy";
+--font-display-light: "DisplayLight";
+
+/* Color styles */
+--noir: rgba(0, 0, 0, 1);
+--blanc: rgba(255, 255, 255, 1);
+--noir-clair: rgba(40, 37, 44, 1);
+--violet--foncer: rgba(89, 52, 168, 1);
+--violet: rgba(106, 89, 143, 1);
+--violet-clair: rgba(143, 119, 194, 1);
+--bleu--foncer: rgba(35, 84, 157, 1);
+--bleu--clair: rgba(33, 137, 233, 1);
+--gris: rgba(82, 84, 87, 1);
+--gris--clair: rgba(109, 105, 113, 1);
+
+/* Text-size styles */
+--display--black-30: 30px;
+--display--black-20: 20px;
+--display--light-30: 30px;
+--display--light-14: 14px;
+--display--light-8: 8px;
+--display--bold-14: 14px;
+--display--bold-4: 4px;
+}
