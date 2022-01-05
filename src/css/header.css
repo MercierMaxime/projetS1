@@ -10,6 +10,13 @@ header {
     height: 48px;
     padding-left: 1rem;
     padding-top: 1rem;
+    z-index: 2;
+}
+
+.iconemenu-header {
+    position: absolute;
+    padding-top: 2.5rem;
+    padding-left: 20.6rem;
     z-index: 1;
 }
 
