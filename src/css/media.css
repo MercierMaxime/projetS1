@@ -104,12 +104,28 @@
 }
 
 .texte-contact {
-    padding-top: 8rem;
-    padding-left: .5rem;
+    position: absolute;
+    padding-top: 10rem;
+    padding-left: .7rem;
+    margin-bottom: 3rem;
 }
 
 .texte-contact2 {
-    padding-left: 1.5rem;
+    position: absolute;
+    padding-left: .2rem;
+    padding-top: 13.5rem;
+}
+
+.texte-contact3 {
+    position: absolute;
+    padding-left: .5rem;
+    padding-top: 17rem;
+}
+
+.texte-contact4 {
+    position: absolute;
+    padding-left: 4rem;
+    padding-top: 20rem;
 }
 
 .iconemenu {
@@ -363,6 +379,12 @@
     padding-top: 3rem;
 }
 
+.bouton-envoyer-message {
+    padding-left: 12rem;
+    padding-top: 28rem;
+    padding-bottom: 3rem;
+}
+
 .affichebio {
     position: absolute;
     padding-top: 160rem;
@@ -456,4 +478,36 @@
 
 .blackpanther__marge {
     padding-top: 8rem;
+}
+
+.logo-facebook {
+    position: absolute;
+    width: 90px;
+    height: 50px;
+    padding-left: 8.5rem;
+}
+
+.logo-twitter {
+    position: absolute;
+    width: 55px;
+    height: 50px;
+    padding-left: 4rem;
+    padding-top: 4rem;
+}
+
+.logo-mail {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    padding-left: 15rem;
+    padding-top: 3.7rem;
+}
+
+.logo-instagram {
+    position: absolute;
+    width: 90px;
+    height: 50px;
+    padding-left: 8.5rem;
+    padding-top: 7rem;
+    padding-bottom: 4rem;
 }
