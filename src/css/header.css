@@ -1,0 +1,28 @@
+header {
+    height: 210px;
+    width: 375px;
+    padding: 0;
+}
+
+.logoheader {
+    position: absolute;
+    width: 50px;
+    height: 48px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+
+.texteheader {
+    position: absolute;
+    font-family: var(--font-display-black);
+    font-size: 25px;
+    color: var(--blanc);
+    padding-top: 4rem;
+    padding-left: 1rem;
+}
+
+.menuheader {
+    position: absolute;
+    padding-left: 21.4rem;
+    padding-top: 1.5rem;
+}

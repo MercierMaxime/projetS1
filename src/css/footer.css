@@ -1,0 +1,33 @@
+.footeraccueil {
+    position: absolute;
+    padding-top: 240rem;
+    width: 375px;
+    height: 80px;
+}
+
+.footerarticle {
+    padding-top: 3rem;
+}
+
+.textefooter {
+    font-family: var(--font-display-meduim);
+    font-size: 12px;
+    position: absolute;
+    color: var(--blanc);
+    padding-left: .5rem;
+    z-index: 2;
+}
+
+.contacter {
+    font-family: var(--font-display-meduim);
+    font-size: 12px;
+    position: absolute;
+    color: var(--blanc);
+    padding-left: 17.9rem;
+    padding-top: .6rem;
+    z-index: 1;
+}
+
+.lienMMI {
+    color: var(--blanc);
+}

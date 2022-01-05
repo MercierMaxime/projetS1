@@ -1,4 +1,19 @@
 body {
     font-family: var(--font-display-light);
     font-size: var(--display-light-14);
+    margin: 0;
+}
+
+article {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+blockquote {
+    font-family: var(--font-display-light);
+    font-size: 16px;
 }
