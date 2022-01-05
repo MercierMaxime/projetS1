@@ -103,6 +103,24 @@
     padding-top: 1.4rem;
 }
 
+.texteintro3 {
+    position: absolute;
+    font-family: var(--font-display-meduim);
+    font-size: 14px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: .3rem;
+}
+
+.texteintro4 {
+    position: absolute;
+    font-family: var(--font-display-meduim);
+    font-size: 14px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 3rem;
+}
+
 .texte-contact {
     position: absolute;
     padding-top: 10rem;
@@ -332,10 +350,145 @@
     margin-bottom: 0;
 }
 
+.titrearticle-apropos {
+    font-family: var(--font-display-black);
+    font-size: var(--display--black-30);
+    color: var(--noir);
+    padding-left: 4rem;
+    margin-top: 0;
+    margin-bottom: 3rem;
+}
+
+.titrearticle-apropos2 {
+    font-family: var(--font-display-black);
+    font-size: var(--display--black-30);
+    color: var(--noir);
+    padding-left: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+.titre-autres-projets {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.titre-autres-projets2 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: 3.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.titre-autres-projets3 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.titre-autres-projets4 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: .1rem;
+    margin-top: 2rem;
+    margin-bottom: .3rem;
+}
+
+.titre-autres-projets5 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: .7rem;
+    margin-top: .2rem;
+    margin-bottom: .3rem;
+}
+
+.titre-autres-projets6 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: 2.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.titre-autres-projets7 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: .1rem;
+}
+
+.titre-autres-projets8 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: 7rem;
+    margin-top: .3rem;
+    margin-bottom: 2rem;
+}
+
+.titre-autres-projets9 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: .7rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.titre-autres-projets10 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: 4.8rem;
+    margin-top: 2rem;
+    margin-bottom: .2rem;
+}
+
+.titre-autres-projets11 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: 5.5rem;
+    margin-top: .1rem;
+    margin-bottom: 2rem;
+}
+
+.titre-autres-projets12 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: 1.2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.titre-autres-projets13 {
+    font-family: var(--font-display-bold);
+    font-size: 25px;
+    color: var(--noir);
+    padding-left: 1.8rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
 .blackpanther {
     position: absolute;
     padding-top: 110rem;
-    padding-left:5rem;
+    padding-left: 5rem;
     width: 200px;
     height: 210px;
 }
@@ -382,6 +535,12 @@
 .bouton-envoyer-message {
     padding-left: 12rem;
     padding-top: 28rem;
+    padding-bottom: 3rem;
+}
+
+.bouton-me-contacter {
+    padding-left: 6.5rem;
+    padding-top: 20rem;
     padding-bottom: 3rem;
 }
 
